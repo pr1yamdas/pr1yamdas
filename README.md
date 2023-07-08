@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... android development
-- 🌱 I’m currently learning ... java and ethical hacking
-- 👯 I’m looking to collaborate on ... app development
-- 🤔 I’m looking for help with ... android app
-- 💬 Ask me about ... android and cyber security
+- 🔭 I’m currently working on ... android and web development
+- 🌱 I’m currently learning ... python,c and web development
+- 👯 I’m looking to collaborate on ... website development
+- 🤔 I’m looking for help with ... flutter and web dev
+- 💬 Ask me about ... web and android dev
 - 📫 How to reach me: ... dpriyam321@gmail.com
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... i love football
